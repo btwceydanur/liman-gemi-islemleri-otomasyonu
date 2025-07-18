@@ -2,9 +2,7 @@
 #include <stdlib.h>
 
 /*
-AD: CEYDANUR
-SOYAD: GEZER
-NUMARASI: 22100011932
+Ceydanur Gezer
 */
 
 
