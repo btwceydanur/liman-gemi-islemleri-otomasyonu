@@ -1,6 +1,6 @@
 # Liman Gemi İşlemleri Otomasyonu
 
-Bu proje, 2023 yılı Güz döneminde [Algoritma ve Programlama] dersi kapsamında, tarafımdan geliştirilmiş özgün bir C dili projesidir.
+Bu proje, 2023 yılı Bahar döneminde [Algoritma ve Programlama] dersi kapsamında, tarafımdan geliştirilmiş özgün bir C dili projesidir.
 
 ## 🚢 Özellikler:
 - Limana yanaşan gemilerin bilgilerini sisteme ekleme
@@ -16,4 +16,4 @@ Bu proje, 2023 yılı Güz döneminde [Algoritma ve Programlama] dersi kapsamın
 - Geliştirme ortamı: **Code::Blocks**
 
 ## 📌 Amaç:
-Limana gelen ve giden gemilerin bilgilerini sisteme kaydetmek,yük işlemlerini gerçekleştirip ücret bilgisi sunma. 
+Limana gelen ve giden gemilerin bilgilerini sisteme yükleme, yük işlemlerini gerçekleştirme ve gemiler için ücret bilgisini hesaplama işlemlerini kullanıcıya sunar.
